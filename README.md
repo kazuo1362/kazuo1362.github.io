@@ -1,7 +1,7 @@
 # 問い合わせURL
 iOS専用アプリ/クロノクイズの問い合わせリポジトリです。<br>
-問い合わせ事項がありましたらIssuesにてご投稿をお願いいたします。<br>
 
+問い合わせ事項がありましたら[Issues](https://github.com/ry-yoshida-private/ry-yoshida-private.github.io/issues)にてご投稿をお願いいたします。<br>
 [Googleフォーム](https://forms.gle/BEzYrUfyfPPRDdWB9)からもお問合せを受け付けます。
 
 ## バグについて
